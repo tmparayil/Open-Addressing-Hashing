@@ -1,0 +1,53 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CuckooHashDup",
+            "request": "launch",
+            "mainClass": "CuckooHashDup",
+            "projectName": "Project 1_a79f238a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DataSetGenerator",
+            "request": "launch",
+            "mainClass": "DataSetGenerator"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ChainedHashing",
+            "request": "launch",
+            "mainClass": "ChainedHashing"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MainRunner",
+            "request": "launch",
+            "mainClass": "MainRunner"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CuckooHashing",
+            "request": "launch",
+            "mainClass": "CuckooHashing"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Map",
+            "request": "launch",
+            "mainClass": "Map"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LinearProbing",
+            "request": "launch",
+            "mainClass": "LinearProbing"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LinearProbingHashTableTest",
+            "request": "launch",
+            "mainClass": "LinearProbingHashTableTest"
+        }
+    ]
+}
